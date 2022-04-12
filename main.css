@@ -23,7 +23,7 @@ body {
 	height: 40px;
 	width: 100%;
 	border-radius: 10px;
-	text-align: center;
+	/* text-align: center; */
 	animation-name: searchbar;
 	animation-duration: 2s;
 	animation-direction: alternate;
@@ -82,4 +82,5 @@ body {
 }
 #result{
 	color: rgb(62, 146, 23);
+	font-family: sans-serif;
 }
